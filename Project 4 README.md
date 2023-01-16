@@ -57,9 +57,11 @@ This project was executed as a group. Here are the work done by each member. The
 4. Data used: based on county (weather, trend, cases)
 
 **Modeling**
-Spatial Analysis
+Spatial Analysis of Dengue
 ![alt text](https://github.com/joel-quek/project4-predict-dengue/blob/main/Assets/Spatial%20Analysis%202019.png)
 
+Time Series Analysis of Rainfall
+![alt text](https://github.com/joel-quek/project4-predict-dengue/blob/main/Assets/Rainfall%20TSA.png)
 
 ---
 
