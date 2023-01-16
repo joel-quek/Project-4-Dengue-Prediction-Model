@@ -50,23 +50,16 @@ This project was executed as a group. Here are the work done by each member. The
 2. Retrieve the dataset and upload it into a directory named `assets`.
 3. Generate a .py or .ipynb file that imports the available data.
 
-**EDA**
-
-
+**EDA Binary Classification- Dataset Check**
+1. High collinearity 
+2. A lot of missing data in weather data based on Station
+3. Preprocessing: rainfall imputed with 0 and temperature with average temperature. Limitation: might skew our data
+4. Data used: based on county (weather, trend, cases)
 
 **Modeling**
 
-
-
-**Resume**
-
-1. Prepare your resume. Include in that you have completed General Assembly Data Science Immersive course as part of your education section. Each member should have their individual resume in doc/pdf format.
-2. You can create a folder called 'resume' to keep your resumes.
-3. You will be asked questions during the presentation based on your resume.
-
-**Presentation**
-* Audience: You are presenting to interviewers from the data science department. Some members of the audience will be data scientists, biostatisticians and epidemiologists who will understand your models and metrics and will want more information. Others will be decision-makers, focusing almost exclusively on your cost-benefit analysis. Your job as a group is to convince both groups of the best course of action in the same meeting and be able to answer questions that either group may ask.
-* The length of your interview should be about 20 minutes (a rough guideline: 1 minute intro, 5 minutes on model, 2 minutes on cost-benefit analysis, 2 minute recommendations/conclusion, 10 minute QnA).  
+![Getting Started](Spatial Analysis 2019.png)
 
 ---
 
+.
