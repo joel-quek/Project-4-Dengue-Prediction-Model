@@ -58,7 +58,7 @@ This project was executed as a group. Here are the work done by each member. The
 
 **Modeling**
 
-![alt text](https://github.com/joel-quek/project4-predict-dengue/blob/main/Spatial%20Analysis%202019.png)
+![alt text](https://github.com/joel-quek/project4-predict-dengue/blob/main/Assets/Spatial%20Analysis%202019.png)
 
 ---
 
