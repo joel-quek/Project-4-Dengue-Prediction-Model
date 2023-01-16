@@ -58,7 +58,7 @@ This project was executed as a group. Here are the work done by each member. The
 
 **Modeling**
 
-![Getting Started](Spatial Analysis 2019.png)
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 ---
 
